@@ -1,3 +1,18 @@
+# Sobre:
+
+Clone de uma das páginas do discord usando Typescript.
+
+
+## Screen:
+
+![DiscordClone](https://media.discordapp.net/attachments/586373689017368588/746413847514054718/unknown.png?width=887&height=499)
+
+---
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
